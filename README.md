@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ram Kumar</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B;I+am+Ramkumar" alt="Typing SVG" /></a></h1>
 <h3 align="center">Aspiring Data science and Machine Learning</h3>
 
 - 🌱 I’m currently learning **Deep Learning, NLP**
