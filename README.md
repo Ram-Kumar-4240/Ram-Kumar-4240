@@ -1,47 +1,30 @@
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I+am+Ram+Kumar" alt="Typing SVG" /></a>
-</h1>
+<h1 align="center">Hi 👋, I'm Ram Kumar</h1>
+<h3 align="center">Aspiring Data science and Machine Learning</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ram-kumar-4240&label=Profile%20views&color=0e75b6&style=flat" alt="ram-kumar-4240" /> </p>
 
-- 🔭 I’m currently working on **Managing development environments using Docker**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ram-kumar-4240" alt="ram-kumar-4240" /></a> </p>
 
-- 🌱 Currently learning **Advanced containerization techniques and machine learning**
+- 🌱 I’m currently learning **Deep Learning, NLP**
 
-- 👯 I’m looking to collaborate on **Machine learning and Python programming projects**
+- 👨‍💻 All of my projects are available at [https://ram-kumar-4240.github.io/My-portfolio/](https://ram-kumar-4240.github.io/My-portfolio/)
 
-- 🤝 I’m looking for help with **Building Scalable and reproducible environments**
+- 💬 Ask me about **Anything**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ram-Kumar-4240](https://github.com/Ram-Kumar-4240)
+- 📫 How to reach me **infogramrk@gmail.com**
 
-- 💬 Ask me about **Docker, Python, and machine learning.**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ramkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramkumar" height="30" width="40" /></a>
+<a href="https://kaggle.com/ramkumar-4240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ramkumar-4240" height="30" width="40" /></a>
+<a href="https://instagram.com/ram__4240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ram__4240" height="30" width="40" /></a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nethaji-nirmal) 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-  <br><br>
-<h1 align="center"> ✒️</h1>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ram-kumar-4240&show_icons=true&locale=en&layout=compact" alt="ram-kumar-4240" /></p>
 
-<h2 align="center"> <br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ram-kumar-4240&show_icons=true&locale=en" alt="ram-kumar-4240" /></p>
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Learn%20%2C%20Experiment%20%2C%20Relearn&type=horizontal&author=Nethaji%20Nirmal&border=true&theme=agolia)](https://github.com/nethajinirmal13)
-
-</h2>
-<br>
-
-
-# 💻 Tech Stack:
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Ram-Kumar-4240&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Ram-Kumar-4240&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ram-Kumar-4240&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br>
-<h1>🚀 GitHub Contributions:</h1>
-
-[![Ram-Kumar-4240's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ram-Kumar-4240&custom_title=Nethaji%20Nirmal's%20contribution&radius=15&height=490&theme=github-compact&area-color=true&area=true&days=46&hide_border=false)](https://github.com/Ram-Kumar-4240)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ram-kumar-4240&" alt="ram-kumar-4240" /></p>
