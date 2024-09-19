@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=400&color=000000&background=00BCFF00&width=600&height=80&lines=Hi+%F0%9F%91%8B;I+am+Ramkumar" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=400&color=000000&background=00E7FF&width=600&height=80&lines=Hi+%F0%9F%91%8B;I+am+Ramkumar" alt="Typing SVG" /></a></h1>
 <h3 align="center">Aspiring Data science and Machine Learning</h3>
 
 - 🌱 I’m currently learning **Deep Learning, NLP**
